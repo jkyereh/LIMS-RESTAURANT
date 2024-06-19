@@ -17093,6 +17093,14 @@ button.owl-next {
   color: #c3c2c2;
 }
 
+
+.rounded-image {
+  width: 90%;
+  max-width: 500px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 30px; /* Adjust the radius to change the roundness */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for better appearance */
+}
 /* //pagination blog page */
 
 /*# sourceMappingURL=style-freedom.css.map */
